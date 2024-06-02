@@ -1,0 +1,5 @@
+.env.prod
+.env.prod.db
+docker-compose.yml
+stocks_products/Dockerfile
+stocks_products/entrypoint.sh
